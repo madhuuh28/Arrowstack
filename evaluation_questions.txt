@@ -1,0 +1,30 @@
+RAG Knowledge Assistant — Evaluation Questions
+These are test questions and expected answers for the fictional sample PDFs. Do not put this file in the documents folder.
+
+1. Question: How many casual-leave days are allowed annually?
+Expected answer: Eligible full-time employees receive 12 casual-leave days per calendar year.
+Source: leave_policy.pdf
+
+2. Question: How many sick-leave days are allowed annually?
+Expected answer: Eligible full-time employees receive 10 sick-leave days per calendar year.
+Source: leave_policy.pdf
+
+3. Question: How many days per week may an eligible employee work from home?
+Expected answer: Up to two days per week, with manager approval.
+Source: work_from_home_policy.pdf
+
+4. Question: What should an employee do about a potential conflict of interest?
+Expected answer: Disclose it to their manager or the designated ethics contact as soon as practical.
+Source: code_of_conduct.pdf
+
+5. Question: Can unused leave be carried forward?
+Expected answer: The policy does not specify whether unused leave can be carried forward or paid out. The assistant should say the document does not provide enough information.
+Source: leave_policy.pdf
+
+6. Question: What is the company's maternity leave allowance?
+Expected answer: Not specified in the provided sample policies. The assistant should not invent an answer.
+Source: No supporting source expected
+
+7. Question: What should an employee do if an API key is exposed?
+Expected answer: Report suspected information exposure promptly to the designated IT contact/security contact, depending on the document.
+Source: work_from_home_policy.pdf or code_of_conduct.pdf
